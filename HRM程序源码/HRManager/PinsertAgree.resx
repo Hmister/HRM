@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="textBox2.Text" xml:space="preserve">
+    <value>根据(中华人民共和国劳动法》和国家及省的有关规定，甲乙双方按照平等自愿、协商一致的原则订立本合同。
+
+一、合同期限
+
+(一)合同期限
+
+双方同意按以下第 种方式确定本合同期限：
+
+1、有固定期限：从 年 月 日起至
+
+年 月 日止。
+
+2、无固定期限：从 年 月 日起至本合同约定的终止条件出现时止(不得将法定解除条件约定为终止条件)。
+
+3、以完成一定的工作为期限：从 年 月
+
+日起至 工作任务完成时止。
+
+(二)试用期限
+
+双方同意按以下第 种方式确定试用期期限(试用期包括在合同期内)：
+
+1、无试用期。
+
+2、试用期从 年 月 日起至
+
+年 月 日止。
+
+(试用期最长不超过六个月。其中合同期限在六个月以下的，试用期不得超过十五日;合同期限在六个月以上一年以下的。试用期不得超过三十日;合同期限在一年以上两年以下的，试用期不得超过六十日。)
+
+二、工作内容
+
+(一)乙方的工作岗位(工作地点、部门、工种或职务)为
+
+(二)乙方的工作任务或职责是
+
+(三)甲方因生产经营需要调整乙方的工作岗位，按变更本合同办理，双方签章确认的协议或通知书作为本合同的附件。
+
+(四)如甲方派乙方到外单位工作，应签订补充协议。
+
+三、工作时间
+
+(一)甲乙双方同意按以下第 种方式确定乙方的工作时间：
+
+1、标准工时制，即每日工作 小时，每周工作
+
+天，每周至少休息一天。
+
+2、不定时工作制，即经劳动保障部门审批，乙方所在岗位实行不定时工作制。
+
+3、综合计算工时工作制，即经劳动保障部门审批，乙方所在岗位实行以 为周期，总工时 小时的综合计算工时工作制。
+
+(二)甲方因生产(工作)需要，经与工会和乙方协商后可以延长工作时间。除(劳动法)第四十二条规定的情形外，一般每日不得超过一小时，因特殊原因最长每日不得超过三小时，每月不得超过三十六小时。
+
+四，工资待遇
+
+(一)乙方正常工作时间的工资按下列第( )种形式执行，不得低于当地最低工资标准。
+
+1、乙方试用期工资 元/月;试用期满工资
+
+元/月(——元/日)。
+
+2、其他形式：。
+
+(二)工资必须以法定货币支付，不得以实物及有价证券替代货币支付。
+
+(三)甲方根据企业的经营状况和依法制定的工资分配办法调整乙方工资，乙方在六十日内未提出异议的视为同意。
+
+(四)甲方每月 日发放工资。如遇节假日或休息日，则提前到最近的工作日支付。
+
+(五)甲方依法安排乙方延长工作时间的，应按(劳动法)第四十四条的规定支付延长工作时间的工资报酬。
+
+五、劳动保护和劳动条件
+
+(一)甲方按国家和省有关劳动保护规定提供符合国家劳动卫生标准的劳动作业场所，切实保护乙方在生产工作中的安全和健康。如乙方工作过程中可能产生职业病危害，甲方应按《职业病防治法》的规定保护乙方的健康及其相关权益。
+
+(二)甲方根据乙方从事的工作岗位，按国家有关规定，发给乙方必要的劳动保护用品，并按劳动保护规定每
+
+(年/季/月)免费安排乙方进行体检。
+
+(三)乙方有权拒绝甲方的违章指挥、强令冒险作业，对甲方及其管理人员漠视乙方安全和健康的行为，有权要求改正并向有关部门检举、控告。
+
+六、社会保险和福利待遇
+
+(一)合同期内，甲方应依法为乙方办理参加养老、医疗、失业、工伤、生育等社会保险的手续，社会保险费按规定的比例，由甲乙双方负责。
+
+(二)乙方患病或非因工负伤，甲方应按国家和地方的规定给予医疗期和医疗待遇，按医疗保险及其他相关规定报销医疗费用，并在规定的医疗期内支付病假工资或疾病救济费。
+
+(三)乙方患职业病、因工负伤或者因工死亡的，甲方应按(工伤保险条例)的规定办理。
+
+(四)甲方按规定给予乙方享受节日假、年休假、婚假、丧假、探亲假、产假、看护假等带薪假期，并按本合同约定的工资标准支付工资。
+
+七、劳动纪律
+
+(一)甲方根据国家和省的有关法律、法规通过民主程序制定的各项规章制度，应向乙方公示;乙方应自觉遵守国家和省规定的有关劳动纪律、法规和企业依法制定的各项规章制度，严格遵守安全操作规程，服从管理，按时完成工作任务。
+
+(二)甲方有权对乙方履行制度的情况进行检查、督促、考核和奖惩。
+
+(三)如乙方掌握甲方的商业秘密，乙方有义务为甲方保守商业秘密，并作如下约定：
+
+八、本合同的变更
+
+(一)任何一方要求变更本合同的有关内容，都应以书面形式通知对方。
+
+(二)甲乙双方经协商一致，可以变更本合同，并办理变更本合同的手续。
+
+九、本合同的解除
+
+(一)经甲乙双方协商一致，本合同可以解除。由甲方解除本合同的，应按规定支付经济补偿金。
+
+(二)属下列情形之一的，甲方可以单方解除本合同：
+
+1、试用期内证明乙方不符合录用条件的;
+
+2、乙方严重违反劳动纪律或甲方规章制度的;
+
+3、严重失职、营私舞弊，对甲方利益造成重大损害的;
+
+4、乙方被依法追究刑事责任的;
+
+5、甲方歇业、停业、濒临破产处于法定整顿期间或者生产经营状况发生严重困难的;
+
+6、乙方患病或非因工负伤，医疗期满后不能从事本合同约定的工作，也不能从事由甲方另行安排的工作的;
+
+7、乙方不能胜任工作，经过培训或者调整工作岗位，仍不能胜任工作的;
+
+8、本合同订立时所依据的客观情况发生重大变化，致使本合同无法履行，经当事人协商不能就变更本合同达成协议的;
+
+9、本合同约定的解除条件出现的。
+
+甲方按照第5、6、7、8、9项规定解除本合同的，需提前三十日书面通知乙方，并按规定向乙方支付经济补偿金，其中按第6项解除本合同并符合有关规定的还需支付乙方医疗补助费。
+
+(三)乙方解除本合同，应当提前三十日以书面形式通知甲方。但属下列情形之一的，乙方可以随时解除本合同：
+
+1、在试用期内的;
+
+2、甲方以暴力、威胁或者非法限制人身自由的手段强迫劳动的;
+
+3、甲方不按本合同规定支付劳动报酬，克扣或无故拖欠工资的;
+
+4、经国家有关部门确认，甲方劳动安全卫生条件恶劣，严重危害乙方身体健康的。
+
+(四)有下列情形之一的，甲方不得解除本合同：
+
+1、乙方患病或非因工负伤，在规定的医疗期内的;
+
+2、乙方患有职业病或因工负伤，并经劳动能力鉴定委员会确认，丧失或部分丧失劳动能力的;
+
+3、女职工在孕期、产期、哺乳期内的;
+
+4、法律、法规规定的其他情形。
+
+(五)解除本合同后，甲乙双方在七日内办理解除劳动合同有关手续。
+
+十、本合同的终止
+
+本合同期满或甲乙双方约定的本合同终止条件出现，本合同即行终止。
+
+本合同期满前一个月，甲方应向乙方提出终止或续订劳动合同的书面意向，并及时办理有关手续。
+
+十一、违约情形及责任
+
+(一)甲方的违约情形及违约责任：
+
+(二)乙方的违约情形及违约责任：
+
+十二、调解及仲栽
+
+双方履行本合同如发生争议，可先协商解决;不愿协商或协商不成的，可以向本单位劳动争议调解委员会申请调解;调解无无效，可在争论发生之日起六十日内向当地劳动争议仲栽委员会申请仲栽;也可以直接向劳动争议仲栽委员会申请仲栽。对仲栽决不服的，可在十一日内向人民法院提起诉讼。</value>
+  </data>
+</root>

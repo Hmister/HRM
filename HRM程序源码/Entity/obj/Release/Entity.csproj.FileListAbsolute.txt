@@ -1,0 +1,5 @@
+E:\SoftItem\HRManager\HRManager\Entity\bin\Release\Entity.dll
+E:\SoftItem\HRManager\HRManager\Entity\bin\Release\Entity.pdb
+E:\SoftItem\HRManager\HRManager\Entity\obj\Release\Entity.csprojResolveAssemblyReference.cache
+E:\SoftItem\HRManager\HRManager\Entity\obj\Release\Entity.dll
+E:\SoftItem\HRManager\HRManager\Entity\obj\Release\Entity.pdb

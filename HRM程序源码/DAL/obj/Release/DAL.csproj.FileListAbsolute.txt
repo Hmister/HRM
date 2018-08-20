@@ -1,0 +1,7 @@
+E:\SoftItem\HRManager\HRManager\DAL\bin\Release\DAL.dll
+E:\SoftItem\HRManager\HRManager\DAL\bin\Release\DAL.pdb
+E:\SoftItem\HRManager\HRManager\DAL\bin\Release\Entity.dll
+E:\SoftItem\HRManager\HRManager\DAL\bin\Release\Entity.pdb
+E:\SoftItem\HRManager\HRManager\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+E:\SoftItem\HRManager\HRManager\DAL\obj\Release\DAL.dll
+E:\SoftItem\HRManager\HRManager\DAL\obj\Release\DAL.pdb
